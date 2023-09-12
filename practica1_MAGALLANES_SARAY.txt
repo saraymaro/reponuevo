@@ -1,0 +1,1 @@
+Creamos una nueva rama con git branch, nos situamos en ella y creamos este documento.
