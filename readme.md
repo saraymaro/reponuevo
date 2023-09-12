@@ -12,10 +12,3 @@
 10. Vuelve a la rama “practica1”.
 11. Haz un merge de tu rama (practica1_APELLIDOS_NOMBRE) con practica1
 12. Añade dentro de la rama de tu carpeta todas los comandos que has utilizado. Puedes crear un documento por ejemplo de Word.
----
-## Ejercicio de como trabajar con Git desde un IDE
-Probablemente en tu proyecto te den libertad para usar el cliente git y el IDE que prefieras, por lo que está muy bien que te vayas acostumbrando a trabajar con alguno
-
-1. Visual Studio Code: https://code.visualstudio.com/
-2. Vamos a utilizar VSC para clonar el repositorio https://github.com/DavidBernalGonzalez/practicaGit.git
-3. Abre el proyecto desde VSV e investiga sobre como realizar un commit, push, crear rama, “mergear”, borrar rama y resolver conflictos con los clientes.
