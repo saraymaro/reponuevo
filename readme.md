@@ -31,5 +31,4 @@
 9.  Vuelve a la rama “practica1”.
     Volvemos a la rama haciendo "git checkout practica1".
 
-10. Haz un merge de tu rama (practica1_APELLIDOS_NOMBRE) con practica1
-11. Añade dentro de la rama de tu carpeta todas los comandos que has utilizado. Puedes crear un documento por ejemplo de Word.
+10. Haz un merge de tu rama (practica1_APELLIDOS_NOMBRE) con practica1.
