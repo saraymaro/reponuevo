@@ -1,0 +1,4 @@
+1. Clonamos el repositorio haciendo "git clone + enlace de repositorio".
+2. Visualizamos las ramas con "git branch -a" para visulizar todas las ramas ya sean en local o remoto.
+3. Entramos en la rama "practica01" y encontramos la carpeta con el mismo nombre.
+4. Editamos los ficheros y hacemos "git status".
